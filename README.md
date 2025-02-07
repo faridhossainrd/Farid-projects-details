@@ -17,7 +17,7 @@
 # 🤖 Robotics Projects  
 
 ## 1️⃣ **AI Humanoid Robots** (`BangRo`, `TVET`, `ROBA`)  
-![AI Humanoid Robots](https://your-image-link-here.com)  
+![AI Humanoid Robots]([https://your-image-link-here.com](https://github.com/faridhossainrd/Farid-projects-details/blob/main/Roba-001.png))  
 📅 **Years:** 2016 – 2022  
 📝 **Description:**  
 These humanoid robots are designed for **human-like interaction** using AI, machine learning, and computer vision. Features include:  
