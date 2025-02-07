@@ -17,7 +17,7 @@
 # 🤖 Robotics Projects  
 
 ## 1️⃣ **AI Humanoid Robots** (`BangRo`, `TVET`, `ROBA`)  
-<img src="https://github.com/faridhossainrd/Farid-projects-details/blob/main/Roba-001.png" width="500">  
+<img src="https://github.com/faridhossainrd/Farid-projects-details/blob/main/Roba-001.png" width="300">  
 📅 **Years:** 2016 – 2022  
 📝 **Description:**  
 These humanoid robots are designed for **human-like interaction** using AI, machine learning, and computer vision. Features include:  
@@ -27,9 +27,9 @@ These humanoid robots are designed for **human-like interaction** using AI, mach
 - Used in research, education, and customer service applications  
 
 ---
-
+ 
 ## 2️⃣ **Shuruchi Kitchen Robot**  
-![Shuruchi Kitchen Robot](https://your-image-link-here.com)  
+![Shuruchi Kitchen Robot](<img src="https://github.com/faridhossainrd/Farid-projects-details/blob/shuruchi-removebg-preview.png" width="300">)  
 📅 **Year:** 2019  
 📝 **Description:**  
 A fully autonomous kitchen assistant capable of:  
