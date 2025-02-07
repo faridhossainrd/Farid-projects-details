@@ -1,4 +1,4 @@
-# 🚀 MD FARID HOSSAIN – AI Robotics & IoT Developer  
+# 🚀 MD FARID HOSSAIN – software Developer for AI, Robotics & IoT
 
 ## 🔗 Connect with Me  
 
