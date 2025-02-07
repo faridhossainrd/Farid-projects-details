@@ -17,80 +17,106 @@
 # 🤖 Robotics Projects  
 
 ## 1️⃣ **AI Humanoid Robots** (`BangRo`, `TVET`, `ROBA`)  
+![AI Humanoid Robots](https://your-image-link-here.com)  
 📅 **Years:** 2016 – 2022  
 📝 **Description:**  
-These humanoid robots feature AI-powered interaction with advanced sensors and algorithms. They showcase expertise in:  
-- Natural human interaction  
-- Computer vision & ML-based behavior  
-- Hardware-optimized AI models  
+These humanoid robots are designed for **human-like interaction** using AI, machine learning, and computer vision. Features include:  
+- Natural language processing for conversation  
+- Real-time facial recognition and emotional analysis  
+- Multi-sensor integration for enhanced perception  
+- Used in research, education, and customer service applications  
 
 ---
 
 ## 2️⃣ **Shuruchi Kitchen Robot**  
+![Shuruchi Kitchen Robot](https://your-image-link-here.com)  
 📅 **Year:** 2019  
 📝 **Description:**  
-Designed for **automated cooking assistance**, this AI-driven robot leverages:  
-- Computer vision for food recognition  
-- AI-powered recipe execution  
-- Machine learning for optimizing cooking tasks  
+A fully autonomous kitchen assistant capable of:  
+- Identifying ingredients using computer vision  
+- Cooking based on AI-driven recipes  
+- Optimizing cooking time and temperature for efficiency  
+- Assisting individuals with disabilities in meal preparation  
 
 ---
 
 ## 3️⃣ **Digro Robotic Warehouse**  
+![Digro Robotic Warehouse](https://your-image-link-here.com)  
 📅 **Year:** 2020  
 📝 **Description:**  
-A fully **automated warehouse management system** improving logistics efficiency through:  
-- Smart inventory tracking  
-- Autonomous navigation  
-- Robotic arms for order fulfillment  
+A **smart robotic warehouse management system** designed for large-scale logistics automation. Features:  
+- AI-powered robotic arms for picking and sorting  
+- Autonomous mobile robots (AMRs) for real-time inventory transport  
+- Computer vision for barcode and object recognition  
+- Cloud-based monitoring and analytics dashboard  
 
 ---
 
 # 🌎 IoT Projects  
 
 ## 1️⃣ **Weather Station**  
+![Weather Station](https://your-image-link-here.com)  
 📅 **Year:** N/A  
 📝 **Description:**  
-An IoT-powered system that collects real-time **temperature, humidity, and atmospheric pressure** data using sensors and cloud-based analytics.  
+An IoT-based weather monitoring system that collects **real-time temperature, humidity, and atmospheric pressure** using:  
+- IoT sensors for environmental data collection  
+- Cloud-based storage and visualization  
+- Alerts for extreme weather conditions  
 
 ---
 
 ## 2️⃣ **Inventory Management System**  
+![Inventory Management](https://your-image-link-here.com)  
 📅 **Year:** N/A  
 📝 **Description:**  
-An IoT-driven solution for **automating stock tracking**, featuring:  
-- RFID-based item detection  
-- Cloud connectivity for remote monitoring  
+A cloud-connected **RFID-based inventory tracking system** allowing:  
+- Real-time stock monitoring  
+- Automated item identification and tracking  
+- Integration with ERP systems for business efficiency  
 
 ---
 
 ## 3️⃣ **Heart Pulse Checker**  
+![Heart Pulse Checker](https://your-image-link-here.com)  
 📅 **Year:** N/A  
 📝 **Description:**  
-A **wearable IoT health monitoring device** measuring heart rate using optical sensors and sending real-time updates.  
+A **portable IoT health monitoring device** that:  
+- Uses optical sensors to measure heart rate  
+- Sends real-time health data to mobile apps  
+- Provides emergency alerts for abnormal heart conditions  
 
 ---
 
 ## 4️⃣ **LPG Gas Detector**  
+![LPG Gas Detector](https://your-image-link-here.com)  
 📅 **Year:** N/A  
 📝 **Description:**  
-An IoT-based **gas leakage detection system** ensuring safety by:  
-- Detecting hazardous gas levels  
-- Sending real-time alerts via mobile app  
+An IoT-based **gas leakage detection and alert system** that:  
+- Monitors air quality for dangerous gas levels  
+- Sends alerts via mobile notifications and alarms  
+- Automatically shuts off gas supply in case of emergency  
 
 ---
 
 ## 5️⃣ **Smart Attendance System**  
+![Smart Attendance System](https://your-image-link-here.com)  
 📅 **Year:** N/A  
 📝 **Description:**  
-AI-powered **facial recognition attendance** solution for automated identity verification.  
+An AI-powered **facial recognition attendance** system designed for:  
+- Automated attendance tracking  
+- Secure identity verification using deep learning models  
+- Cloud-based reporting for schools and workplaces  
 
 ---
 
 ## 6️⃣ **Soil Tester**  
+![Soil Tester](https://your-image-link-here.com)  
 📅 **Year:** N/A  
 📝 **Description:**  
-A portable **agricultural IoT device** that analyzes soil properties for better farming decisions.  
+A portable IoT-based **agricultural soil testing device** that provides:  
+- Real-time soil quality assessment (moisture, pH, nutrients)  
+- Wireless connectivity for data logging  
+- AI-driven recommendations for optimal crop growth  
 
 ---
 
