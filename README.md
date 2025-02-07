@@ -1,7 +1,5 @@
 # 🚀 MD FARID HOSSAIN – Robotics & AI Developer  
 
-![Profile Picture](https://your-image-link-here.com)  
-
 ## 🔗 Connect with Me  
 **LinkedIn:** [md-farid-hossain](https://www.linkedin.com/in/md-farid-hossain-a7ba49174)  
 
