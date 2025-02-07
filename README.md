@@ -51,7 +51,10 @@ A **smart robotic warehouse management system** designed for large-scale logisti
 ---
 
 # 🌎 IoT Projects  
+
 <img src="https://github.com/faridhossainrd/Farid-projects-details/blob/main/Iotproject.png" width="500">
+---
+
 ## 1️⃣ **Weather Station**  
  
 📝 **Description:**  
