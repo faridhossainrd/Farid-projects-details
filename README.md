@@ -1,6 +1,7 @@
 # 🚀 MD FARID HOSSAIN – Robotics & AI Developer  
 
 ## 🔗 Connect with Me  
+
 **LinkedIn:** [md-farid-hossain](https://www.linkedin.com/in/md-farid-hossain-a7ba49174)  
 
 ## 🛠️ Key Skills  
@@ -15,7 +16,9 @@
 # 🤖 Robotics Projects  
 
 ## 1️⃣ **AI Humanoid Robots** (`BangRo`, `TVET`, `ROBA`)  
+
 <img src="https://github.com/faridhossainrd/Farid-projects-details/blob/main/Roba-001.png" width="300">  
+
 📅 **Years:** 2016 – 2022  
 📝 **Description:**  
 These humanoid robots are designed for **human-like interaction** using AI, machine learning, and computer vision. Features include:  
@@ -27,7 +30,9 @@ These humanoid robots are designed for **human-like interaction** using AI, mach
 ---
  
 ## 2️⃣ **Shuruchi Kitchen Robot**  
+
 <img src="https://github.com/faridhossainrd/Farid-projects-details/blob/main/shuruchi-removebg-preview.png" width="300">
+
 📅 **Year:** 2019  
 📝 **Description:**  
 A fully autonomous kitchen assistant capable of:  
@@ -39,7 +44,9 @@ A fully autonomous kitchen assistant capable of:
 ---
 
 ## 3️⃣ **Digro Robotic Warehouse**  
+
 <img src="https://github.com/faridhossainrd/Farid-projects-details/blob/main/196716245_235391891356496_7263961071620080220_n.jpg" width="300">
+
 📅 **Year:** 2020  
 📝 **Description:**  
 A **smart robotic warehouse management system** designed for large-scale logistics automation. Features:  
