@@ -30,7 +30,7 @@ These humanoid robots are designed for **human-like interaction** using AI, mach
  
 ## 2️⃣ **Shuruchi Kitchen Robot**  
 ![Shuruchi Kitchen Robot]
-<img src="https://github.com/faridhossainrd/Farid-projects-details/blob/shuruchi-removebg-preview.png" width="300">)  
+<img src="https://github.com/faridhossainrd/Farid-projects-details/blob/shuruchi-removebg-preview.png" width="300">
 📅 **Year:** 2019  
 📝 **Description:**  
 A fully autonomous kitchen assistant capable of:  
