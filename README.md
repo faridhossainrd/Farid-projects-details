@@ -1,0 +1,1 @@
+# Farid-projects-details
