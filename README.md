@@ -41,7 +41,7 @@ A fully autonomous kitchen assistant capable of:
 ---
 
 ## 3️⃣ **Digro Robotic Warehouse**  
-![Digro Robotic Warehouse](https://your-image-link-here.com)  
+<img src="https://github.com/faridhossainrd/Farid-projects-details/blob/main/196716245_235391891356496_7263961071620080220_n.jpg" width="300">
 📅 **Year:** 2020  
 📝 **Description:**  
 A **smart robotic warehouse management system** designed for large-scale logistics automation. Features:  
@@ -53,10 +53,9 @@ A **smart robotic warehouse management system** designed for large-scale logisti
 ---
 
 # 🌎 IoT Projects  
-
+<img src="https://github.com/faridhossainrd/Farid-projects-details/blob/main/Iotproject.png" width="500">
 ## 1️⃣ **Weather Station**  
-![Weather Station](https://your-image-link-here.com)  
-📅 **Year:** N/A  
+ 
 📝 **Description:**  
 An IoT-based weather monitoring system that collects **real-time temperature, humidity, and atmospheric pressure** using:  
 - IoT sensors for environmental data collection  
@@ -66,8 +65,7 @@ An IoT-based weather monitoring system that collects **real-time temperature, hu
 ---
 
 ## 2️⃣ **Inventory Management System**  
-![Inventory Management](https://your-image-link-here.com)  
-📅 **Year:** N/A  
+
 📝 **Description:**  
 A cloud-connected **RFID-based inventory tracking system** allowing:  
 - Real-time stock monitoring  
@@ -77,8 +75,7 @@ A cloud-connected **RFID-based inventory tracking system** allowing:
 ---
 
 ## 3️⃣ **Heart Pulse Checker**  
-![Heart Pulse Checker](https://your-image-link-here.com)  
-📅 **Year:** N/A  
+
 📝 **Description:**  
 A **portable IoT health monitoring device** that:  
 - Uses optical sensors to measure heart rate  
@@ -88,8 +85,7 @@ A **portable IoT health monitoring device** that:
 ---
 
 ## 4️⃣ **LPG Gas Detector**  
-![LPG Gas Detector](https://your-image-link-here.com)  
-📅 **Year:** N/A  
+
 📝 **Description:**  
 An IoT-based **gas leakage detection and alert system** that:  
 - Monitors air quality for dangerous gas levels  
@@ -99,8 +95,7 @@ An IoT-based **gas leakage detection and alert system** that:
 ---
 
 ## 5️⃣ **Smart Attendance System**  
-![Smart Attendance System](https://your-image-link-here.com)  
-📅 **Year:** N/A  
+ 
 📝 **Description:**  
 An AI-powered **facial recognition attendance** system designed for:  
 - Automated attendance tracking  
@@ -110,8 +105,7 @@ An AI-powered **facial recognition attendance** system designed for:
 ---
 
 ## 6️⃣ **Soil Tester**  
-![Soil Tester](https://your-image-link-here.com)  
-📅 **Year:** N/A  
+
 📝 **Description:**  
 A portable IoT-based **agricultural soil testing device** that provides:  
 - Real-time soil quality assessment (moisture, pH, nutrients)  
@@ -121,9 +115,8 @@ A portable IoT-based **agricultural soil testing device** that provides:
 ---
 
 ## 🚀 Contributions & Future Work  
-I am actively researching **robotic intelligence, blockchain-powered automation, and decentralized AI**. My goal is to innovate and build **cutting-edge AI and IoT solutions** that bridge the gap between humans and machines.  
+I am deeply engaged in advancing **robotic intelligence, AI-driven automation, and IoT connectivity**. My research focuses on developing intelligent robotic systems that enhance autonomy, adaptability, and efficiency in real-world applications. By integrating AI for smart decision-making, IoT for seamless data exchange, and advanced sensing technologies, I strive to create innovative solutions that bridge the gap between humans and machines, making robotics more intuitive, responsive, and impactful across industries.  
 
+I’m open to collaborations! Feel free to connect and discuss new ideas. 🚀  
 ---
 
-**📌 Like, Fork, and Contribute!**  
-I’m open to collaborations! Feel free to connect and discuss new ideas. 🚀  
